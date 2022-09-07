@@ -1,0 +1,19 @@
+
+t@fcf4552c3264:~/alx-system_engineering-devops/0x00-shell_basics# chmod u+x 10-back
+root@fcf4552c3264:~/alx-system_engineering-devops/0x00-shell_basics# git add .
+root@fcf4552c3264:~/alx-system_engineering-devops/0x00-shell_basics# git commit -m "solve up to 12"
+[master 20c1814] solve up to 12
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/10-back
+root@fcf4552c3264:~/alx-system_engineering-devops/0x00-shell_basics# git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 339 bytes | 339.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/godson-omagbemi/alx-system_engineering-devops.git
+   2625416..20c1814  master -> master
+root@fcf4552c3264:~/alx-system_engineering-devops/0x00-shell_basics# vim
+
